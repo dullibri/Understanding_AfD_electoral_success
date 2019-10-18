@@ -1,0 +1,33 @@
+Variable;Beschreibung;Description;Quelle;Source
+debt_2013;"Anteil Überschuldeter Erwachsener; 
+                        Für eine genaue Beschreibung der Definition
+                        siehe Originalquelle";"Percentage Share of overindebted adults. For
+                        a detailed description of the critria applied
+                        for consider adults overindebted see source.";Creditreform, SchuldnerAtlas 2018;Creditreform, SchuldnerAtlas 2018
+debt_2014;"Anteil Überschuldeter Erwachsener; 
+                        Für eine genaue Beschreibung der Definition
+                        siehe Originalquelle";"Percentage Share of overindebted adults. For
+                        a detailed description of the critria applied
+                        for consider adults overindebted see source.";Creditreform, SchuldnerAtlas 2018;Creditreform, SchuldnerAtlas 2018
+debt_2015;"Anteil Überschuldeter Erwachsener; 
+                        Für eine genaue Beschreibung der Definition
+                        siehe Originalquelle";"Percentage Share of overindebted adults. For
+                        a detailed description of the critria applied
+                        for consider adults overindebted see source.";Creditreform, SchuldnerAtlas 2018;Creditreform, SchuldnerAtlas 2018
+debt_2016;"Anteil Überschuldeter Erwachsener; 
+                        Für eine genaue Beschreibung der Definition
+                        siehe Originalquelle";"Percentage Share of overindebted adults. For
+                        a detailed description of the critria applied
+                        for consider adults overindebted see source.";Creditreform, SchuldnerAtlas 2018;Creditreform, SchuldnerAtlas 2018
+debt_2017;"Anteil Überschuldeter Erwachsener; 
+                        Für eine genaue Beschreibung der Definition
+                        siehe Originalquelle";"Percentage Share of overindebted adults. For
+                        a detailed description of the critria applied
+                        for consider adults overindebted see source.";Creditreform, SchuldnerAtlas 2018;Creditreform, SchuldnerAtlas 2018
+debt_2018;"Anteil Überschuldeter Erwachsener; 
+                        Für eine genaue Beschreibung der Definition
+                        siehe Originalquelle";"Percentage Share of overindebted adults. For
+                        a detailed description of the critria applied
+                        for consider adults overindebted see source.";Creditreform, SchuldnerAtlas 2018;Creditreform, SchuldnerAtlas 2018
+ove18_13;Differenz von debt_2018 und debt_2013;Difference of debt_2018 and debt_2013;Creditreform, SchuldnerAtlas 2018;Creditreform, SchuldnerAtlas 2018
+state;Deutsche Ländernamen;German state names;Creditreform, SchuldnerAtlas 2018;Creditreform, SchuldnerAtlas 2018

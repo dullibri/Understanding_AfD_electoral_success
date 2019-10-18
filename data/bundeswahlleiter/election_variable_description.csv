@@ -1,0 +1,20 @@
+Variable;Beschreibung;Description;Quelle;Source
+eligible_voters_19;Anzahl Wahlberechtigte, Wahl zum Europäischen Parlament 2019;Number of eligable voters, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+eligible_voters_14;Anzahl Wahlberechtigte, Wahl zum Europäischen Parlament 2014;Number of eligable voters, elections to the EU-Parliament 2014;Bundeswahlleiter;Federal Returning Officer
+voters_19;Anzahl Wähler, Wahl zum Europäischen Parlament 2019;Number of voters, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+voters_14;Anzahl Wähler, Wahl zum Europäischen Parlament 2014;Number of voters, elections to the EU-Parliament 2014;Bundeswahlleiter;Federal Returning Officer
+invalid_19;Anzahl ungültiger Stimmen, Wahl zum Europäischen Parlament 2019;Number of invalid votes, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+invalid_14;Anzahl ungültiger Stimmen, Wahl zum Europäischen Parlament 2014;Number of invalid votes, elections to the EU-Parliament 2014;Bundeswahlleiter;Federal Returning Officer
+valid_19;Anzahl gültiger Stimmen, Wahl zum Europäischen Parlament 2019;Number of valid votes, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+valid_14;Anzahl gültiger Stimmen, Wahl zum Europäischen Parlament 2014;Number of valid votes, elections to the EU-Parliament 2014;Bundeswahlleiter;Federal Returning Officer
+afd_19;Anzahl Stimmen für die AfD, Wahl zum Europäischen Parlament 2019;Number of votes for AfD, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+afd_14;Anzahl Stimmen für die AfD, Wahl zum Europäischen Parlament 2014;Number of votes for AfD, elections to the EU-Parliament 2014;Bundeswahlleiter;Federal Returning Officer
+afd_vot19;Prozentualer Anteil der AfD an den gültigen Stimmen, Wahl zum Europäischen Parlament 2019;Percentage Share of AfD of valid votes, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+afd_eli19;Prozentualer Anteil der AfD an Wahlberechtigten, Wahl zum Europäischen Parlament 2019;Percentage Share of AfD of eligble voters, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+turnout19;Wahlbeteiligung, Wahl zum Europäischen Parlament 2019;Turnout, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+turnout14;Wahlbeteiligung, Wahl zum Europäischen Parlament 2014;Turnout, elections to the EU-Parliament 2019;Bundeswahlleiter;Federal Returning Officer
+turnout19_14;Wahlbeteiligung, Änderung von der Wahl zum Europäischen Parlament 2019 und 2014;Turnout, change of elections to the EU-Parliament 2019 and 2014;Bundeswahlleiter;Federal Returning Officer
+afd_val19;Prozentualer Anteil der AfD an den gültigen Stimmen, Wahl zum Europäischen Parlament 2019;Percentage share of AfD of eligible votes, Wahl zum Europäischen Parlament 2019;Bundeswahlleiter;Federal Returning Officer
+afd_val14;Prozentualer Anteil der AfD an den gültigen Stimmen, Wahl zum Europäischen Parlament 2014;Percentage share of AfD of eligible votes, elections to the EU-Parliament 2014;Bundeswahlleiter;Federal Returning Officer
+vot19_14;Anzahl der Stimmen für die AfD, Änderung von der Wahl zum Europäischen Parlament 2019 und 2014;Number of votes for AfD, change of elections to the EU-Parliament 2019 and 2014;Bundeswahlleiter;Federal Returning Officer
+east;Ostdeutschland-Dummy, 1 für Ostdeutschland, 0 für Westdeutschland;East-Germany-Dummy, 1 East-Germany, 0 for West-Germany;Bundeswahlleiter;Federal Returning Officer
