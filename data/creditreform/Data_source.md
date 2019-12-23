@@ -1,0 +1,4 @@
+- The data source is https://www.creditreform.de/aktuelles-wissen/pressemeldungen-fachbeitraege/show/schuldneratlas-deutschland-2018
+- The pdf table "Schuldneratlas" is converted to csv-files using camelot 
+- To start that process import the pdf, then run camelot_pdf_to_table.py
+- Then creditreform_reader_2019.ipynb will create "creditreform.csv" which will further on be collected and merged into df (the main dataframe)
